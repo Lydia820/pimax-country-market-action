@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pimax Country Market Action"
+  short_description: "Country research and executable Pimax Word plan"
+  default_prompt: "Use $pimax-country-market-action to research the country I name and produce a formal leadership-ready Word report with competitor evidence, Pimax data diagnosis, product priorities, and a 30-day, 90-day, and 6-month execution plan."
+policy:
+  allow_implicit_invocation: true
