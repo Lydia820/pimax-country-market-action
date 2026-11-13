@@ -32,7 +32,7 @@ Do not delay the report because an internal dataset is unavailable. Use public p
 ## Workflow
 
 1. Read [research-standard.md](references/research-standard.md) before collecting evidence.
-2. Read [output-spec.md](references/output-spec.md) before outlining the report. When the deliverable is Word, also read [word-format.md](references/word-format.md) and use the bundled visual template only as a formatting reference, never as a factual source.
+2. Read [output-spec.md](references/output-spec.md) before outlining the report. When the deliverable is Word, also read [word-format.md](references/word-format.md) and [germany-v3-canonical.md](references/germany-v3-canonical.md). The bundled `assets/pimax-country-market-report-template.docx` is the final approved Germany V3 and is the canonical content-structure and formatting master, never a factual source for another country.
 3. Inventory supplied internal files and record source, date range, currency, unit, attribution definition, exclusions, and known duplication risks.
 4. Establish a concise country baseline: gaming and VR demand, PC and simulation ecosystem, ecommerce and retail routes, logistics or regulatory constraints, and relevant exhibitions.
 5. Research competitors first. For each core competitor, trace the complete path from audience and message through every material paid, owned, earned, community, ecommerce, retail and offline channel to landing or store page, purchase route and post-purchase support. For each observed action, complete the seven-part record in the research standard: action, likely mechanism, public evidence, Pimax coverage, gap, transferable lesson and concrete Pimax response. Record "not publicly observed in the checked sources" instead of treating missing public evidence as proof of absence. Apply a shorter but comparable teardown to supplementary competitors. Use filings and investor materials for financial context where available, but do not convert company-wide figures into country sales.
@@ -42,14 +42,23 @@ Do not delay the report because an internal dataset is unavailable. Use public p
 9. Choose the country product priority for the Pimax portfolio. State the primary product, secondary product, audience, use case, price or offer logic, and why the evidence supports the choice.
 10. Produce the execution half using the mandatory cards in [execution-cards.md](references/execution-cards.md). Segment core VR audiences, create one complete card for every in-scope platform, define three to five content pillars, give community and KOL plays, include full exhibition and offline plans, and sequence the work over 30 days, 90 days, and 6 months.
 11. End with facts, hypotheses, and missing data. Every recommendation must have an owner type, deliverable, timing, KPI, decision threshold, and dependency.
-12. Build the Word document with the available document-authoring workflow. Render every page, inspect pagination and table flow, run structural and accessibility checks, and repair the document before delivery.
+12. Build the Word document by adapting the final Germany V3 master section by section. Preserve its chapter order, analysis sequence, required tables, evidence-label logic, information density, heading hierarchy and page rhythm. Replace Germany-specific evidence and wording with the target country; do not clear the master and independently redesign the report. Render every page, compare the result against the Germany V3 master, inspect pagination and table flow, run structural and accessibility checks, and repair the document before delivery.
+
+## Canonical Germany V3 rule
+
+- The final Germany V3 controls both **content structure** and **Word format**.
+- Country reports must use the exact chapter sequence and required comparison/execution registers in [germany-v3-canonical.md](references/germany-v3-canonical.md).
+- Do not merge, rename, reorder or omit chapters merely to shorten the report. A country-specific section may be added only when evidence makes it necessary, without replacing a canonical section.
+- Preserve the Germany V3 distinction between the two core competitors' full channel-by-channel seven-step teardowns, the integrated competitor-to-Pimax comparison, the four-part internal-operations diagnosis, the 12 strategic judgments, B2C and B2B audience cards, the 17-platform execution register, and the separate content, Ads, community, KOL, exhibition and roadmap modules.
+- The master may supply styles, table schemas, headers, footers and layout, but none of its Germany facts, values, sources, recommendations or country-language examples may survive in another country's report.
+- Before delivery, run a structural parity check: every canonical heading and table purpose must be present or explicitly marked `not publicly verifiable / data unavailable` in the corresponding section. Missing data never justifies deleting the section.
 
 ## Non-negotiable evidence rules
 
 - Distinguish fact, inference, recommendation, and unknown.
 - Attach dates and direct source URLs to public claims. Prefer official product pages, official platform libraries, filings, investor relations, retailer pages, event sites, and first-party channel pages.
 - Use marketplace listings, ratings, bestseller ranks, review volume, stock status, retailer count, search visibility, ad longevity, and engagement only as demand or execution signals. Never call them verified sales unless the platform publishes sales.
-- Never infer German or other country sales from global filings. Never infer Pimax profit from revenue, ROAS, or platform-attributed value.
+- Never infer target-country sales from global filings. Never infer Pimax profit from revenue, ROAS, or platform-attributed value.
 - Do not add conversion actions that may describe the same purchase. Do not treat campaign names as proof of targeting, products, keywords, creative, or landing pages.
 - Never invent search terms or negative keywords. If the account lacks a search-term report, label proposed keyword clusters as test hypotheses.
 - Preserve the user's period definitions and state partial months explicitly.
@@ -72,6 +81,7 @@ Before delivery:
 - Verify that every audience, platform, content pillar, community, KOL archetype and exhibition satisfies all mandatory fields in [execution-cards.md](references/execution-cards.md). A paragraph that merely names a channel does not pass.
 - Verify that the execution roadmap, measurement design, and missing-data backlog are present.
 - Verify that the formal report itself is leadership-ready. Do not add a detached “leadership quick-read” page unless the user explicitly requests one.
+- Verify structural parity with the final Germany V3 using [germany-v3-canonical.md](references/germany-v3-canonical.md): same chapter order, same analytical questions, same required registers, and comparable depth. Fail the report if it only borrows colors or styles while reorganizing the content.
 - Verify that headings are numbered and visually distinct, key evidence is tagged, sources are clickable, and long material is not fragmented into unrelated tables.
 - Render and visually inspect every page of the Word report before delivery.
 

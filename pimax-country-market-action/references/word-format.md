@@ -1,6 +1,6 @@
 # Formal Word report format
 
-Use this reference only when producing or revising the formal `.docx` report. If available, use `assets/pimax-country-market-report-template.docx` as a visual reference or package template. Replace all country-specific body content; the template is not a research source.
+Use this reference only when producing or revising the formal `.docx` report. `assets/pimax-country-market-report-template.docx` is the approved final Germany V3 and controls both content structure and visual format. Read [germany-v3-canonical.md](germany-v3-canonical.md), duplicate the master, and replace it section by section. Do not clear the body and independently redesign the report. Replace all country-specific evidence, wording, examples and sources; the master is not a research source.
 
 ## Visual system
 
@@ -46,3 +46,5 @@ Before delivery:
 - Confirm page numbers update and the file opens as a Word document.
 - Run section and accessibility checks when the document workflow provides them. Resolve high and medium findings; explain any intentional residual finding.
 - Confirm all hyperlinks remain clickable and the report contains no claims copied from the template country.
+- Compare the final heading outline and table purposes against [germany-v3-canonical.md](germany-v3-canonical.md). The report fails if it adopts only the Germany V3 colors or fonts while changing its content structure.
+- Search the final DOCX package for Germany-specific country names, German-language ad copy, retailers, events, values and source titles. Remove every unintended carryover.

@@ -4,7 +4,9 @@
 
 Write for Pimax leadership and the country execution team. Leadership must understand the current market, product priority, competitive gap, resource allocation, expected outcome, and risk. The execution team must be able to start work without translating vague strategy.
 
-## Recommended structure
+## Required structure
+
+For formal Word reports, the final Germany V3 structure is mandatory. Follow [germany-v3-canonical.md](germany-v3-canonical.md) for the exact chapter order and required table purposes. The outline below summarizes the analytical flow; it does not authorize reordering, merging or omitting the canonical chapters.
 
 1. Title, scope, report date, data cutoff, and core conclusions.
 2. Country market baseline and implications.
@@ -35,7 +37,7 @@ For every channel, specify:
 - Audience segment and use case.
 - Funnel role and objective.
 - Exact campaign, series, activation, or partnership.
-- Example German-language title, hook, ad angle, or event message, with an English or Chinese explanation if useful.
+- Example local-language title, hook, ad angle, or event message, with an English or Chinese explanation if useful.
 - Format, cadence, destination, CTA, offer, conversion event, and tracking method.
 - Required asset, owner type, lead time, and dependency.
 - KPI and a threshold or decision rule. If no baseline exists, define a learning KPI and how the baseline will be established.
